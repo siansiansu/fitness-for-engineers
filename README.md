@@ -1,6 +1,6 @@
 # Fitness-for-engineers
 
-- Drop Squats
+- [Drop Squats](https://www.youtube.com/watch?v=u5007x5-i7w)
 - Flutter Kicks
 - Kneeling Quadriceps Stretch
 - Mountain Climbers
